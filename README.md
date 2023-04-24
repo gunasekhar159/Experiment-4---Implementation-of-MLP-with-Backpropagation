@@ -156,8 +156,7 @@ print(classification_report(y_test,predictions))
 ```
 ## OUTPUT 
 <img width="451" alt="3 1" src="https://user-images.githubusercontent.com/95043391/233910969-f5dc29ee-fd43-43c1-868f-b9d5a93f5418.png">
-![Uploading 3.3.png…]()
-![Uploading 3.4.png…]()
+
 
 
 
